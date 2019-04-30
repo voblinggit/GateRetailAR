@@ -1,3 +1,4 @@
+# Gate Retail AR
 Privacy Policy of GateRetailAR
 
 Effective date: April 30, 2019
