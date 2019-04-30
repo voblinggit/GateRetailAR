@@ -98,6 +98,6 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-## Changes To This Privacy Policy
+## Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 - By email: jonry.borbe@vobling.com
