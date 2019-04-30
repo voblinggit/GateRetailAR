@@ -11,6 +11,8 @@ We use your data to provide and improve the Service. By using the Service, you a
 ## Information Collection And Use
 We collect several different types of information for various purposes to provide and improve our Service to you.
 
+We use TrueDepth API technologies (ARKit, with automatic estimation of the real-world directional lighting environment) to create AR effects within the App. We do not share information with third parties, do not store or process in any other way the data which we accessed and used via TrueDepth API. For more information about TrueDepth API technologies you may visit https://support.apple.com/en-us/HT208108.
+
 ## Types of Data Collected
 
 ### Personal Data
@@ -60,7 +62,7 @@ The exact procedure for controlling app permissions may be dependent on the User
 Please note that the revoking of such permissions might impact the proper functioning of this Application.
 
 If User grants any of the permissions listed below, the respective Personal Data may be processed (i.e accessed to, modified or removed) by this Application:
-- Camera permission - Used for accessing the camera to enable AR functionalities of the app that uses camera to track plane detection, image target and face-tracking(TrueDepth API).
+- Camera permission - Used for accessing the camera to enable AR functionalities of the app that uses camera to track plane detection, image target and face-tracking.
 
 ## Disclosure Of Data
 
