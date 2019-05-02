@@ -13,6 +13,8 @@ We collect several different types of information for various purposes to provid
 
 We use TrueDepth API technologies (ARKit, with automatic estimation of the real-world directional lighting environment) to create AR effects within the App. We do not share information with third parties, do not store or process in any other way the data which we accessed and used via TrueDepth API. For more information about TrueDepth API technologies you may visit https://support.apple.com/en-us/HT208108.
 
+Facial(Face-tracking) data is not collected, shared, or stored in any file
+
 ## Types of Data Collected
 
 ### Personal Data
@@ -43,7 +45,6 @@ GateRetailAR uses the collected data for various purposes:
 - To provide analysis or valuable information so that we can improve the Service
 - To monitor the usage of the Service
 - To detect, prevent and address technical issues
-- Facial(Face-tracking) data is not collected, shared, or stored in any file
 
 ## Transfer Of Data
 Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
