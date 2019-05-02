@@ -43,6 +43,7 @@ GateRetailAR uses the collected data for various purposes:
 - To provide analysis or valuable information so that we can improve the Service
 - To monitor the usage of the Service
 - To detect, prevent and address technical issues
+- Facial(Face-tracking) data is not collected, shared, or stored in any file
 
 ## Transfer Of Data
 Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
